@@ -1,6 +1,5 @@
-# SeattleAirbnb-UdacityProject1
+# Data analysis for Seattle Airbnb dataset 
 
-## Udacity Seattle Data Analysis
 This repo contains a analysis of Airbnb's Seattle dataset for 2016-2017<br>
 
 ## Project Motivation
